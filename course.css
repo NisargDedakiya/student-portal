@@ -1,0 +1,12 @@
+.cou{
+    align-items: center;
+    justify-items: center;
+     border: dodgerblue;
+}
+th{
+    color: blue;
+}
+h3{
+    justify-self: center;
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,9 @@
+.feedback{
+      margin: 0%;
+    height: 400px;
+    width:700px;
+    border:2px solid orange;
+    position:absolute;
+    left:400px;
+
+}

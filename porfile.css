@@ -1,0 +1,9 @@
+h3{
+       display: flex;
+    justify-content: center;
+}
+pre {
+     
+    justify-content: center;
+    font-size: large;
+}
